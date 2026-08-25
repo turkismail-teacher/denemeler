@@ -4,6 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 import config
 from scanner import fetch_and_scan
+from keep_alive import keep_alive
 
 # Yahoo Finance parametre eşleştirmeleri (4S yfinance tarafından desteklenmediği için çıkarıldı)
 TIMEFRAMES = {
