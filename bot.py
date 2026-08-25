@@ -73,7 +73,13 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     """Botu ayağa kaldıran ana fonksiyon"""
-    keep_alive()
+    # Sahte web sunucusunu başlat
+    keep_alive() 
+    
+    # Render üzerindeki 'event loop' çökme hatasını çözen zorunlu ekleme:
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    
     app = Application.builder().token(config.TELEGRAM_TOKEN).build()
     
     app.add_handler(CommandHandler("start", start))
