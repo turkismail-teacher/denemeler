@@ -1,6 +1,5 @@
 # Telegram Bot Kimliği (BotFather'dan aldığın token'ı buraya yapıştır)
-#deneme kanalı
- # //var botToken = "8869455219:AAEO_h33-FMgs79R55QGIHriY8cx7qUieOk";
+
  # //var chatId = "-1003683404801";
 TELEGRAM_TOKEN = "8951684686:AAEZdYl1yoTsUfmpK4Y8G2teFpeYAy6YaKo"
 
