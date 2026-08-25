@@ -13,7 +13,7 @@ BIST100 = [
     "IPEKE.IS", "ISCTR.IS", "ISGYO.IS", "ISMEN.IS", "IZMDC.IS", "KARDMD.IS", "KCHOL.IS", "KCAER.IS", "KENT.IS", "KONTR.IS",
     "KORDS.IS", "KOZAA.IS", "KOZAL.IS", "KPOWR.IS", "MAVI.IS", "MGROS.IS", "MIATK.IS", "NETAS.IS", "ODAS.IS", "OTKAR.IS",
     "OYAKC.IS", "PEKGY.IS", "PETKM.IS", "PGSUS.IS", "PTT.IS", "QUAGR.IS", "REEDR.IS", "SAHOL.IS", "SASA.IS", "SDTTR.IS",
-    "SISE.IS", "SKBNK.IS", "SMART.IS", "SOKM.IS", "TABGD.IS", "TCELL.IS", "TEKFEN.IS", "THYAO.IS", "TMSN.IS", "TOASO.IS",
+    "SISE.IS", "SKBNK.IS", "SMART.IS", "SOKM.IS", "TABGD.IS", "TCELL.IS", "TKFEN.IS", "THYAO.IS", "TMSN.IS", "TOASO.IS",
     "TRGYO.IS", "TSKB.IS", "TTKOM.IS", "TTRAK.IS", "TUPRS.IS", "TURSG.IS", "ULKER.IS", "VAKBN.IS", "VESBE.IS", "YKBNK.IS"
 
     # Not: Listeyi uzatmamak için 10 tane yazdım. BIST 100'ün geri kalanını senin buraya eklemen gerekecek.
